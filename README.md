@@ -2,6 +2,6 @@
 This is a custom kernel for Samsung Galaxy a035f
 
 Features:
-Overdemand Governor
+Ondemand Governor
 
 #Still under testing
