@@ -1,4 +1,4 @@
-# custom_kernel_samsung_A035f
+# Samsung Galaxy A035f Custom Kernel
 This is a custom kernel for Samsung Galaxy a035f
 Built By: @PeePot
 
